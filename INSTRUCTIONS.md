@@ -1,0 +1,1 @@
+Welcome to the ETL Pipeline! Run `pip install -r requirements.txt` to install dependencies before running any programs. To get started, run `python welcome.py` using Python 3 on the command line.
