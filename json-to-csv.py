@@ -3,8 +3,6 @@ import click
 import pandas as pd
 from pandas.io import json
 
-from main import csv_to_json
-
 @click.command()
 @click.option('--file', help='The name of the JSON file to convert to CSV')
 def json_to_csv(file):
